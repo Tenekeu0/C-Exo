@@ -1,0 +1,8 @@
+﻿  Complexité.cpp
+C:\Users\tenek\OneDrive\Bureau\ECOLE\AlgoAu24\Complexité\Complexité.cpp(7,25): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tenek\OneDrive\Bureau\ECOLE\AlgoAu24\Complexité\Complexité.cpp(13,25): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tenek\OneDrive\Bureau\ECOLE\AlgoAu24\Complexité\Complexité.cpp(19,25): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tenek\OneDrive\Bureau\ECOLE\AlgoAu24\Complexité\Complexité.cpp(25,25): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tenek\OneDrive\Bureau\ECOLE\AlgoAu24\Complexité\Complexité.cpp(31,25): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\tenek\OneDrive\Bureau\ECOLE\AlgoAu24\Complexité\Complexité.cpp(41,25): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Complexité.vcxproj -> C:\Users\tenek\OneDrive\Bureau\ECOLE\AlgoAu24\Complexité\x64\Debug\Complexité.exe
